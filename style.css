@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root{
+    --Dark-grayish-blue: hsl(236, 13%, 42%);
+    --Soft-red: hsl(5, 85%, 63%);
+    --Soft-orange: hsl(35, 77%, 62%);
+    --Grayish--blue: hsl(233, 8%, 79%);
+    --bs-link-hover-color-rgb: 25, 135, 84;
+}
+
+body{
+    font-family: "Inter";
+}
+
+
+.link{
+   
+    color: hsl(36, 5%, 38%);
+
+}
+.heading{
+    color: var(--Soft-orange);
+    margin-top: 7px;
+   
+}
+.article {
+    margin:25px 5px;
+}
+p{
+    margin-top: 10px;
+}
+.links ul li a:hover{
+    color:hsl(5, 85%, 63%);
+}
+     .image1{
+        width:200px;
+        height:200px;
+     }                                                                                                                                                                                                                                                                                                                                               
